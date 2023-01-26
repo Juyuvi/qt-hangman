@@ -1,5 +1,6 @@
 # qt-hangman
-Jogo da forca com interface feita no PyQt-5
+
+Jogo da forca com interface feita no PyQt5
 
 
-aaaaaaaa
+Primeiro projeto que publico no Github.
