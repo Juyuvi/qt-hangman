@@ -2,6 +2,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QMovie
 from linking import *
 import os
+from sys import exit
 
 icon_path = os.path.join(os.path.dirname(__file__), r'img\icon.png')
 gif_path = os.path.join(os.path.dirname(__file__), r'img\confettiONE.gif')
